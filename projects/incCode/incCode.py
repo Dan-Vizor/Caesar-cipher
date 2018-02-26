@@ -97,7 +97,7 @@ while True:
 	print ("6 - random word")
 	mode = int(input("pick mode: "))
 	end =""
-	print ("")
+	print ("\n")
 
 	if mode == 1:
 		key = int(input("enter key(max 25): "))
@@ -118,8 +118,7 @@ while True:
 		else:
 			decrypt(enter, end, 1)
 			
-	if mode == 5:
-		break
+	if mode == 5: break
 		
 	if mode == 4:
 		word = input("enter word: ")
