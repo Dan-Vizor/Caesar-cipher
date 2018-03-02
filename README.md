@@ -1,5 +1,3 @@
-# CodeClub
+#Cipher
 
-this a reposatery for my small projects and misc files
-
-vdds ydq
+Caesar cipher with modes for encrypt decrypt and force decrypt
